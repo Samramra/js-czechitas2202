@@ -1,8 +1,5 @@
-//import "./index.js";
+
+let jirik;
 
 
-let jmeno = Peter;
-let vek = 30;
-let svobodny = true;
-
-console.log(jmeno);
+console.log(jirik);
