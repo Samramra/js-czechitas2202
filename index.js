@@ -1,1 +1,1 @@
-import 'ukol1';
+import 'moje/ukol1';
