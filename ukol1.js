@@ -1,6 +1,7 @@
 
-let jirik;
+let a = 5;
+let b = 10;
 
-jirik ´57.556;
+let soucet = a + b + 100;
 
-console.log(jirik);
+console.log(soucet);
