@@ -1,4 +1,5 @@
-let vek = 18;
+let jmeno = "Marian";
+let vek = 30;
 
 //jsi plnoletý nebo  nejsi
 //true/false
@@ -8,9 +9,9 @@ let vek = 18;
 //vykona když je neprqavda
 
 if (vek >=18){
-  console.log(vyborne jsi plnolety")
+  console.log("muzes ridit auto")
   }
-else {
+else (vek <=18) {
   console.log("nejsi plnolety")
 }
 
