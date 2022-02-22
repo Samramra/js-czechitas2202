@@ -1,3 +1,3 @@
-import './style.css';
+import "./ukol1"
 
 console.log("ahoj")
