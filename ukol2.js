@@ -1,3 +1,5 @@
+import './ukol2';
+
 let jmenoMuz = 'Filip';
 let jmenoZena = 'Stana';
 let rokMuz = 1992;

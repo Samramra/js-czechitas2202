@@ -1,4 +1,4 @@
-
+import "./ukol1"
 
 let jmeno = Petra;
 let jmeno = "Petra"
