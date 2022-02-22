@@ -1,4 +1,4 @@
-import './ukol2';
+
 
 let jmenoMuz = 'Filip';
 let jmenoZena = 'Stana';
