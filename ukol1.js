@@ -1,4 +1,4 @@
-let jmeno = Petra;
+
 let vek = 34;
 let vaha = 65;
 let vyska = 1.67;
