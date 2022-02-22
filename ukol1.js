@@ -1,7 +1,6 @@
+let jmeno = Petra;
+let vek = 34;
+let vaha = 65;
+let vyska = 1.67;
 
-let a = 5;
-let b = 10;
-
-let soucet = a + b + 100;
-
-console.log(soucet);
+console.log(vaha / vyska ** 2);
