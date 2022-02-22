@@ -17,3 +17,4 @@ else (a + b > c) {
 }
 else {
 console.log("nejvetsi strana je C:" + c);
+}
