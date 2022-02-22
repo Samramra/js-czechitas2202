@@ -1,3 +1,3 @@
 //import "./index.js";
 
-console.log ("Ahoj světe")
+console.log ('Ahoj světe')
