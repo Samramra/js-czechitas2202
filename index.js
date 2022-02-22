@@ -1,1 +1,1 @@
-let jmeno = '5526';
+import 'ukol1';
