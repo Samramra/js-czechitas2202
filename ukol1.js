@@ -1,5 +1,3 @@
-//import "./syle.cs";
-
-
+//import "./index.js";
 
 console.log ("Ahoj světe")
