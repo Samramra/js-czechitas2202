@@ -1,17 +1,12 @@
-let jmeno = "Marian";
-let vek = 30;
+let jmeno = prompt("jake mas jmeno";
+let vek = Number(prompt("kolik je ti let"));
 
-//jsi plnoletý nebo  nejsi
-//true/false
-//vykona se když je pravda
-
-
-//vykona když je neprqavda
 
 if (vek >=18){
-  console.log("muzes ridit auto")
+  console.log("vase jmeno je" +jmeno + " , je vam " + vek +" let a tak mate pravo ridit auto")
   }
-else (vek <=18) {
-  console.log("nejsi plnolety")
-}
 
+  else {
+    let kolik zbyva = 18 - vek; 
+    console.log("vase jmeno je" +jmeno + " , je vam " + vek +" let a tak mate pravo ridit auto ")
+  }
